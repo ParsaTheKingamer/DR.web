@@ -16,6 +16,6 @@ Dr.Web Antivirus
 
  By installing the program in the mail server of the Internet service providers "ISP", the mail server of such networks will be under the control of Dr. Web and all incoming and outgoing emails will be examined for virus infection.  In this way, users of such Internet networks will be protected from receiving the virus through the Internet.  These filters run under the "Linux" operating system and are known as "Daemon" by Dr. Web.  This software supports mail servers, "Sendmail", "Qmail", "Postfix", "Exim", "Zmailer", "Commiunigate Pro", and the "Samba" server file. The rich database includes the algorithm of about 120,000 common viruses, especially viruses.  Available in the country.  (More than 40,000 independent virus records)
 
-
+<a href="https://play.google.com/store/apps/details?id=com.drweb">View in Google play!</a>
 <a href="http://www.mediafire.com/file/5rdb8ig92y9ko82/Dr.Web-Security-Space-Pro-12.6.2.apk/file">
 Download 19.19MB</a>
